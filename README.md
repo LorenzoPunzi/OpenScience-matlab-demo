@@ -1,2 +1,2 @@
 # OpenScience-matlab-demo
-Open Science course MATLABdemo research project
+Open Science course MATLAB demo research project
